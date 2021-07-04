@@ -1,0 +1,1 @@
+# Servomotor controlado por potenciometro
